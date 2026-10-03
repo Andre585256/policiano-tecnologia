@@ -31,7 +31,7 @@ header {
             rgba(5, 10, 20, 0.72),
             rgba(5, 10, 20, 0.90)
         ),
-        url("imagens/hero-tech.jpg");
+        url("hero-tech.jpg");
 
     background-size: cover;
     background-position: center;
