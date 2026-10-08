@@ -27,11 +27,11 @@ header {
     min-height: 700px;
 
     background-image:
-        linear-gradient(
-            rgba(5, 10, 20, 0.72),
-            rgba(5, 10, 20, 0.90)
-        ),
-        url("hero-tech.jpg");
+    linear-gradient(
+        rgba(5, 10, 20, 0.30),
+        rgba(5, 10, 20, 0.55)
+    ),
+    url("hero-tech.jpg");
 
     background-size: cover;
     background-position: center;
