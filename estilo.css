@@ -182,9 +182,9 @@ section p {
 /* =========================
    SOLUÇÕES / INÍCIO
    ========================= */
-
 #inicio {
     text-align: center;
+    background-color: #f1f5f9;
 }
 
 #inicio p {
