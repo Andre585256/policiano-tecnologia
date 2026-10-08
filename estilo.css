@@ -38,10 +38,10 @@ header {
 
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: flex-start;
     justify-content: center;
 
-    text-align: center;
+    text-align: left;
 
     padding: 40px 20px;
 }
