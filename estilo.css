@@ -156,6 +156,9 @@ section h2 {
 
     color: #ffffff;
 }
+#inicio h2 {
+    color: #0f172a;
+}
 
 section h2::after {
     content: "";
