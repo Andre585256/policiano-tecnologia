@@ -184,8 +184,10 @@ section p {
    ========================= */
 #inicio {
     text-align: center;
-    background-color: #f1f5f9;
+   background-color: #f1f5f9;
+   color: #0f172a;
 }
+
 
 #inicio p {
     max-width: 750px;
