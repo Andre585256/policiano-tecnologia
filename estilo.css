@@ -533,3 +533,23 @@ footer {
     background-color: #1d4ed8;
     transform: translateY(-2px);
 }
+
+@media (max-width: 768px) {
+    .solucoes-container {
+        grid-template-columns: 1fr;
+    }
+
+    header {
+        background-position: 65% center;
+    }
+
+    header h1 {
+        font-size: 32px;
+        overflow-wrap: break-word;
+    }
+
+    header p {
+        max-width: 100%;
+    }
+}
+
